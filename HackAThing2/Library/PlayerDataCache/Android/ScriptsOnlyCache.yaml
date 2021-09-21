@@ -54,8 +54,6 @@ ScriptsOnlyBuild:
     - UnityEditor.TestTools.TestRunner.TestListCacheData
     - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
     UnityEngine.UI.dll:
-    - UnityEngine.EventSystems.EventSystem
-    - UnityEngine.EventSystems.StandaloneInputModule
     - UnityEngine.UI.Button
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.ContentSizeFitter
@@ -136,8 +134,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2738}
     - Class: 114
-      Script: {instanceID: 2870}
-    - Class: 114
       Script: {instanceID: 2972}
     - Class: 114
       Script: {instanceID: 3002}
@@ -147,8 +143,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 3120}
     - Class: 114
       Script: {instanceID: 3258}
-    - Class: 114
-      Script: {instanceID: 3344}
     - Class: 114
       Script: {instanceID: 3376}
     - Class: 114
@@ -208,8 +202,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 64372}
     - Class: 115
-      Script: {instanceID: 0}
-    - Class: 120
       Script: {instanceID: 0}
     - Class: 128
       Script: {instanceID: 0}

@@ -192,7 +192,7 @@
 101-->[:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:89:9-91:68
 102            android:name="unity.build-id"
 102-->[:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:90:13-42
-103            android:value="e42f61ea-0f21-41e8-a9b8-5c80567545fc" />
+103            android:value="933f9855-16dd-4987-811e-96a2b776bc79" />
 103-->[:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:91:13-65
 104        <meta-data
 104-->[:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:92:9-94:39
