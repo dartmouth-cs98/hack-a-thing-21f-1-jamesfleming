@@ -46,7 +46,7 @@ namespace Mapbox.Unity.Map
 		protected Vector2d _centerMercator;
 		protected float _worldRelativeScale;
 		protected Vector3 _mapScaleFactor;
-
+		private Vector3 startPos;
 		protected Vector3 _cachedPosition;
 		protected Quaternion _cachedRotation;
 		protected Vector3 _cachedScale = Vector3.one;
@@ -497,6 +497,7 @@ namespace Mapbox.Unity.Map
 
 		protected virtual void Start()
 		{
+			startPos = this.transform.position;
 			MapOnStartRoutine();
 		}
 
@@ -559,10 +560,7 @@ namespace Mapbox.Unity.Map
 
 		public void EnableEditorPreview()
 		{
-			_cachedPosition = transform.position;
-			_cachedRotation = transform.rotation;
-			_cachedScale = transform.localScale;
-
+			
 			SetUpMap();
 			if (OnEditorPreviewEnabled != null)
 			{
@@ -589,9 +587,7 @@ namespace Mapbox.Unity.Map
 				OnEditorPreviewDisabled();
 			}
 
-			transform.position = _cachedPosition;
-			transform.rotation = _cachedRotation;
-			transform.localScale = _cachedScale;
+			
 		}
 
 		public void DestroyTileProvider()
@@ -702,8 +698,11 @@ namespace Mapbox.Unity.Map
 			{
 				Root.transform.localPosition = new Vector3(
 					Root.transform.position.x,
-					0,
+					Root.transform.position.y,
 					Root.transform.position.z);
+
+				// The map shouldn't move yet it seems too...
+				this.transform.position = startPos;
 			}
 		}
 

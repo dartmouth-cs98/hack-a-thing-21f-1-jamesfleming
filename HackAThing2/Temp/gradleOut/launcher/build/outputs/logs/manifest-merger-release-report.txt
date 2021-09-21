@@ -1,0 +1,331 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+MERGED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:3:1-103:12
+MERGED from [:OVRPlugin:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/22249db168e4d69c238871a694a4b3f3/OVRPlugin/AndroidManifest.xml:2:1-9:12
+MERGED from [:animated-vector-drawable-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/cd5bc6385a85f897cb3ce7d5aa13d24b/animated-vector-drawable-25.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:appcompat-v7-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/722ccff209d3a74ff1cc3750caf4b09e/appcompat-v7-25.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [:com.mapbox.android.unity-debug:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/0a06a07f429d9a0e653ff078db9f173d/com.mapbox.android.unity-debug/AndroidManifest.xml:2:1-18:12
+MERGED from [:libcore-release:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/c387310e51d698f61abe9daad05cfb15/libcore-release/AndroidManifest.xml:2:1-14:12
+MERGED from [:libtelemetry-full-release:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/a424024968c45983e8871d1ef2bb2db6/libtelemetry-full-release/AndroidManifest.xml:2:1-30:12
+MERGED from [:support-compat-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/dc8821bfb2a9cf29c40f849948e071fb/support-compat-25.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [:support-core-ui-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/46ddb058abeadb581d126a78d679fa08/support-core-ui-25.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [:support-core-utils-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/c9866e1d4202e82c7d13f26ff7f3bad8/support-core-utils-25.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [:support-media-compat-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/a96adb7ec4a57daba4c734fd45f17abd/support-media-compat-25.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [:support-v4-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/2996fe05706d92b4212ccf76e16fa63c/support-v4-25.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [:support-vector-drawable-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/8de443b0305021dd4829e2356a0a2d43/support-vector-drawable-25.1.0/AndroidManifest.xml:17:1-25:12
+INJECTED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+	package
+		ADDED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:70-110
+		INJECTED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+		INJECTED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:111-157
+	android:versionCode
+		INJECTED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+		INJECTED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:158-188
+supports-screens
+ADDED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:135-160
+application
+ADDED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:3-116
+MERGED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:46:5-101:19
+MERGED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:46:5-101:19
+MERGED from [:animated-vector-drawable-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/cd5bc6385a85f897cb3ce7d5aa13d24b/animated-vector-drawable-25.1.0/AndroidManifest.xml:22:5-20
+MERGED from [:animated-vector-drawable-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/cd5bc6385a85f897cb3ce7d5aa13d24b/animated-vector-drawable-25.1.0/AndroidManifest.xml:22:5-20
+MERGED from [:appcompat-v7-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/722ccff209d3a74ff1cc3750caf4b09e/appcompat-v7-25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [:appcompat-v7-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/722ccff209d3a74ff1cc3750caf4b09e/appcompat-v7-25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [:libtelemetry-full-release:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/a424024968c45983e8871d1ef2bb2db6/libtelemetry-full-release/AndroidManifest.xml:18:5-28:19
+MERGED from [:libtelemetry-full-release:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/a424024968c45983e8871d1ef2bb2db6/libtelemetry-full-release/AndroidManifest.xml:18:5-28:19
+MERGED from [:support-compat-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/dc8821bfb2a9cf29c40f849948e071fb/support-compat-25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [:support-compat-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/dc8821bfb2a9cf29c40f849948e071fb/support-compat-25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [:support-core-ui-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/46ddb058abeadb581d126a78d679fa08/support-core-ui-25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [:support-core-ui-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/46ddb058abeadb581d126a78d679fa08/support-core-ui-25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [:support-core-utils-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/c9866e1d4202e82c7d13f26ff7f3bad8/support-core-utils-25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [:support-core-utils-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/c9866e1d4202e82c7d13f26ff7f3bad8/support-core-utils-25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [:support-media-compat-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/a96adb7ec4a57daba4c734fd45f17abd/support-media-compat-25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [:support-media-compat-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/a96adb7ec4a57daba4c734fd45f17abd/support-media-compat-25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [:support-v4-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/2996fe05706d92b4212ccf76e16fa63c/support-v4-25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [:support-v4-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/2996fe05706d92b4212ccf76e16fa63c/support-v4-25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [:support-vector-drawable-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/8de443b0305021dd4829e2356a0a2d43/support-vector-drawable-25.1.0/AndroidManifest.xml:23:5-20
+MERGED from [:support-vector-drawable-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/8de443b0305021dd4829e2356a0a2d43/support-vector-drawable-25.1.0/AndroidManifest.xml:23:5-20
+	android:extractNativeLibs
+		ADDED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:16-48
+	android:label
+		ADDED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:49-81
+	android:allowBackup
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:47:9-36
+	android:icon
+		ADDED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:82-113
+	android:networkSecurityConfig
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:50:9-64
+uses-sdk
+INJECTED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+MERGED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-12:41
+MERGED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-12:41
+MERGED from [:OVRPlugin:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/22249db168e4d69c238871a694a4b3f3/OVRPlugin/AndroidManifest.xml:7:5-47
+MERGED from [:OVRPlugin:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/22249db168e4d69c238871a694a4b3f3/OVRPlugin/AndroidManifest.xml:7:5-47
+MERGED from [:animated-vector-drawable-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/cd5bc6385a85f897cb3ce7d5aa13d24b/animated-vector-drawable-25.1.0/AndroidManifest.xml:20:5-44
+MERGED from [:animated-vector-drawable-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/cd5bc6385a85f897cb3ce7d5aa13d24b/animated-vector-drawable-25.1.0/AndroidManifest.xml:20:5-44
+MERGED from [:appcompat-v7-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/722ccff209d3a74ff1cc3750caf4b09e/appcompat-v7-25.1.0/AndroidManifest.xml:21:5-23:78
+MERGED from [:appcompat-v7-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/722ccff209d3a74ff1cc3750caf4b09e/appcompat-v7-25.1.0/AndroidManifest.xml:21:5-23:78
+MERGED from [:com.mapbox.android.unity-debug:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/0a06a07f429d9a0e653ff078db9f173d/com.mapbox.android.unity-debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:com.mapbox.android.unity-debug:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/0a06a07f429d9a0e653ff078db9f173d/com.mapbox.android.unity-debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:libcore-release:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/c387310e51d698f61abe9daad05cfb15/libcore-release/AndroidManifest.xml:7:5-9:41
+MERGED from [:libcore-release:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/c387310e51d698f61abe9daad05cfb15/libcore-release/AndroidManifest.xml:7:5-9:41
+MERGED from [:libtelemetry-full-release:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/a424024968c45983e8871d1ef2bb2db6/libtelemetry-full-release/AndroidManifest.xml:7:5-9:41
+MERGED from [:libtelemetry-full-release:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/a424024968c45983e8871d1ef2bb2db6/libtelemetry-full-release/AndroidManifest.xml:7:5-9:41
+MERGED from [:support-compat-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/dc8821bfb2a9cf29c40f849948e071fb/support-compat-25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [:support-compat-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/dc8821bfb2a9cf29c40f849948e071fb/support-compat-25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [:support-core-ui-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/46ddb058abeadb581d126a78d679fa08/support-core-ui-25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [:support-core-ui-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/46ddb058abeadb581d126a78d679fa08/support-core-ui-25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [:support-core-utils-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/c9866e1d4202e82c7d13f26ff7f3bad8/support-core-utils-25.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [:support-core-utils-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/c9866e1d4202e82c7d13f26ff7f3bad8/support-core-utils-25.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [:support-media-compat-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/a96adb7ec4a57daba4c734fd45f17abd/support-media-compat-25.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [:support-media-compat-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/a96adb7ec4a57daba4c734fd45f17abd/support-media-compat-25.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [:support-v4-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/2996fe05706d92b4212ccf76e16fa63c/support-v4-25.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [:support-v4-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/2996fe05706d92b4212ccf76e16fa63c/support-v4-25.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [:support-vector-drawable-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/8de443b0305021dd4829e2356a0a2d43/support-vector-drawable-25.1.0/AndroidManifest.xml:21:5-43
+MERGED from [:support-vector-drawable-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/8de443b0305021dd4829e2356a0a2d43/support-vector-drawable-25.1.0/AndroidManifest.xml:21:5-43
+INJECTED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:appcompat-v7-25.1.0:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/722ccff209d3a74ff1cc3750caf4b09e/appcompat-v7-25.1.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		MERGED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:14:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:14:19-51
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:16:5-67
+MERGED from [:libtelemetry-full-release:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/a424024968c45983e8871d1ef2bb2db6/libtelemetry-full-release/AndroidManifest.xml:16:5-67
+MERGED from [:libtelemetry-full-release:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/a424024968c45983e8871d1ef2bb2db6/libtelemetry-full-release/AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:16:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:17:5-79
+MERGED from [:com.mapbox.android.unity-debug:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/0a06a07f429d9a0e653ff078db9f173d/com.mapbox.android.unity-debug/AndroidManifest.xml:11:5-79
+MERGED from [:com.mapbox.android.unity-debug:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/0a06a07f429d9a0e653ff078db9f173d/com.mapbox.android.unity-debug/AndroidManifest.xml:11:5-79
+MERGED from [:libcore-release:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/c387310e51d698f61abe9daad05cfb15/libcore-release/AndroidManifest.xml:11:5-79
+MERGED from [:libcore-release:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/c387310e51d698f61abe9daad05cfb15/libcore-release/AndroidManifest.xml:11:5-79
+MERGED from [:libtelemetry-full-release:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/a424024968c45983e8871d1ef2bb2db6/libtelemetry-full-release/AndroidManifest.xml:13:5-79
+MERGED from [:libtelemetry-full-release:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/a424024968c45983e8871d1ef2bb2db6/libtelemetry-full-release/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:17:22-76
+uses-feature#android.hardware.location.gps
+ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:19:5-21:36
+MERGED from [:com.mapbox.android.unity-debug:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/0a06a07f429d9a0e653ff078db9f173d/com.mapbox.android.unity-debug/AndroidManifest.xml:14:5-16:35
+MERGED from [:com.mapbox.android.unity-debug:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/0a06a07f429d9a0e653ff078db9f173d/com.mapbox.android.unity-debug/AndroidManifest.xml:14:5-16:35
+	android:required
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:21:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:20:9-53
+uses-feature#android.hardware.location
+ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:23:9-49
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:26:5-71
+	android:name
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:26:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:27:5-80
+	android:name
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:27:22-77
+uses-feature#android.hardware.microphone
+ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:29:5-31:36
+	android:required
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:31:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:30:9-51
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:32:5-34:36
+	android:required
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:34:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:33:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:35:5-37:36
+	android:required
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:37:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:36:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:38:5-40:36
+	android:required
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:40:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:39:9-72
+uses-feature#android.hardware.vr.headtracking
+ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:41:5-44:31
+	android:version
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:44:9-28
+	android:required
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:43:9-32
+	android:name
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:42:9-56
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:51:9-75:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:57:13-50
+	android:launchMode
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:55:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:54:13-48
+	android:resizeableActivity
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:56:13-47
+	android:configChanges
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:53:13-122
+	android:theme
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:58:13-77
+	android:name
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:52:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:com.oculus.intent.category.VR
+ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:59:13-64:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:60:17-69
+	android:name
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:60:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:62:17-77
+	android:name
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:62:27-74
+category#com.oculus.intent.category.VR
+ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:63:17-74
+	android:name
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:63:27-71
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:66:13-68:40
+	android:value
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:68:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:67:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:69:13-71:40
+	android:value
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:71:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:70:17-53
+meta-data#com.oculus.vr.focusaware
+ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:72:13-74:40
+	android:value
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:74:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:73:17-56
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:77:9-79:33
+	android:value
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:79:13-30
+	android:name
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:78:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:80:9-82:36
+	android:value
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:82:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:81:13-47
+meta-data#unity.allow-resizable-window
+ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:83:9-85:37
+	android:value
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:85:13-34
+	android:name
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:84:13-56
+meta-data#notch.config
+ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:86:9-88:50
+	android:value
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:88:13-47
+	android:name
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:87:13-40
+meta-data#unity.build-id
+ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:89:9-91:68
+	android:value
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:91:13-65
+	android:name
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:90:13-42
+meta-data#com.samsung.android.vr.application.mode
+ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:92:9-94:39
+	android:value
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:94:13-36
+	android:name
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:93:13-67
+meta-data#com.unity.xr.oculus.LowOverheadMode
+ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:95:9-97:37
+	android:value
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:97:13-34
+	android:name
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:96:13-63
+meta-data#com.oculus.supportedDevices
+ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:98:9-100:44
+	android:value
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:100:13-41
+	android:name
+		ADDED from [:unityLibrary] /Users/jamesfleming/Desktop/98/hack-a-thing-21f-1-jamesfleming/HackAThing2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:99:13-55
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:com.mapbox.android.unity-debug:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/0a06a07f429d9a0e653ff078db9f173d/com.mapbox.android.unity-debug/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from [:com.mapbox.android.unity-debug:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/0a06a07f429d9a0e653ff078db9f173d/com.mapbox.android.unity-debug/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:libcore-release:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/c387310e51d698f61abe9daad05cfb15/libcore-release/AndroidManifest.xml:12:5-79
+MERGED from [:libtelemetry-full-release:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/a424024968c45983e8871d1ef2bb2db6/libtelemetry-full-release/AndroidManifest.xml:14:5-79
+MERGED from [:libtelemetry-full-release:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/a424024968c45983e8871d1ef2bb2db6/libtelemetry-full-release/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from [:libcore-release:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/c387310e51d698f61abe9daad05cfb15/libcore-release/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:libtelemetry-full-release:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/a424024968c45983e8871d1ef2bb2db6/libtelemetry-full-release/AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from [:libtelemetry-full-release:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/a424024968c45983e8871d1ef2bb2db6/libtelemetry-full-release/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:libtelemetry-full-release:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/a424024968c45983e8871d1ef2bb2db6/libtelemetry-full-release/AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from [:libtelemetry-full-release:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/a424024968c45983e8871d1ef2bb2db6/libtelemetry-full-release/AndroidManifest.xml:15:22-73
+provider#com.mapbox.android.telemetry.provider.MapboxTelemetryInitProvider
+ADDED from [:libtelemetry-full-release:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/a424024968c45983e8871d1ef2bb2db6/libtelemetry-full-release/AndroidManifest.xml:19:9-23:39
+	android:authorities
+		ADDED from [:libtelemetry-full-release:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/a424024968c45983e8871d1ef2bb2db6/libtelemetry-full-release/AndroidManifest.xml:21:13-79
+	android:exported
+		ADDED from [:libtelemetry-full-release:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/a424024968c45983e8871d1ef2bb2db6/libtelemetry-full-release/AndroidManifest.xml:22:13-37
+	android:initOrder
+		ADDED from [:libtelemetry-full-release:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/a424024968c45983e8871d1ef2bb2db6/libtelemetry-full-release/AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from [:libtelemetry-full-release:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/a424024968c45983e8871d1ef2bb2db6/libtelemetry-full-release/AndroidManifest.xml:20:13-93
+service#com.mapbox.android.telemetry.crash.CrashReporterJobIntentService
+ADDED from [:libtelemetry-full-release:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/a424024968c45983e8871d1ef2bb2db6/libtelemetry-full-release/AndroidManifest.xml:25:9-27:72
+	android:permission
+		ADDED from [:libtelemetry-full-release:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/a424024968c45983e8871d1ef2bb2db6/libtelemetry-full-release/AndroidManifest.xml:27:13-69
+	android:name
+		ADDED from [:libtelemetry-full-release:] /Users/jamesfleming/.gradle/caches/transforms-2/files-2.1/a424024968c45983e8871d1ef2bb2db6/libtelemetry-full-release/AndroidManifest.xml:26:13-92
