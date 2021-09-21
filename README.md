@@ -7,8 +7,8 @@
 
 Include some screenshots.
 
-(Preview 1.png)
-(Preview 2.png)
+[](Preview 1.png)
+[](Preview 2.png)
 
 I created a little demo of a room with a map in it that a user can scroll around in virtual reality using a physical joystick with a compass design. It used the Mapbox SDK to generate 3d maps with satellite data. I added a marker onto the map using provided mapbox scripts and then made it so that when you tap the marker it shows pictures that were taken at that location. For this demo I chose Lake Tahoe California.  I also put a very large version of the map outside to see what sense of place that would give the user. Finally I added a small pointer stick the user could toggle with their controller just to give a tease of what type of virtual reality features might be nice. 
 
