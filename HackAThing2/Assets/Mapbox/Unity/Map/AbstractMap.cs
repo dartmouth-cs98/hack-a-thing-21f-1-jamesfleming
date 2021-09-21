@@ -324,6 +324,8 @@ namespace Mapbox.Unity.Map
 
 		protected virtual void Update()
 		{
+
+			this.transform.position = startPos;
 			if (Application.isEditor && !Application.isPlaying && IsEditorPreviewEnabled == false)
 			{
 				return;

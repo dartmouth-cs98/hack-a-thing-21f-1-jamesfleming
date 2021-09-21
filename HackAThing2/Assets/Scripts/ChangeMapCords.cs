@@ -41,16 +41,16 @@ public class ChangeMapCords : MonoBehaviour
 
             // CHange our Lat Long based on the ball position
             if (DX > 0){
-                Long += panSpeed;
+                Long -= panSpeed;
 
             }else{
-                Long -= panSpeed;
+                Long += panSpeed;
             }
             
             if (DZ>0){
-                Lat += panSpeed;
-            }else{
                 Lat -= panSpeed;
+            }else{
+                Lat += panSpeed;
             }
             // Update the map
              map.UpdateMap(new Vector2d(Lat, Long));
